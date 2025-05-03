@@ -1,0 +1,6 @@
+# Fixed size array (conceptual)
+arr = [1, 2, 3, 4, 8]
+
+print("Fixed Stack Dynamic Array in Python:")
+for i in range(len(arr)):
+    print(f"Element {i}: {arr[i]}")
